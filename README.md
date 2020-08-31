@@ -27,7 +27,7 @@ module.exports = {
 
 ```
 $ dbcli --help
-Connected.
+Connected to database.
 Usage: index [options] [command]
 
 Database Management CLI
